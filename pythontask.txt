@@ -38,3 +38,17 @@ Python has a large standard library which provides a rich set of module and func
 
 11. Dynamically Typed Language:
 Python is a dynamically-typed language. That means the type (for example- int, double, long, etc.) for a variable is decided at run time not in advance because of this feature we don’t need to specify the type of variable.
+
+Q3) Who are using python?
+Ans3) Python is typically used by engineers to perform statistical analysis on their data, etc. Machine learning engineers use tensorflow framework of python. Web developers use django framework for developing the webpage. Nonetheless python is used by some of the world class companies stated below:
+
+Industrial Light and Magic
+Google
+Facebook
+Instagram
+Spotify
+Quora
+Netflix
+Dropbox
+Reddit
+etc.
